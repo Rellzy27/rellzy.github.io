@@ -1,0 +1,15 @@
+# rellzy.github.io
+Just a test
+<!DOCTYPE html>
+
+<html>
+
+<body>Ini Video<br>
+
+<iframe width="70%%" height="20%" src="https://www.youtube.com/embed/dQw4w9WgXcQ">
+
+</iframe>
+
+</body>
+
+</html>
